@@ -1,1 +1,1 @@
-# it-is-a-sample-project
+# it-was-a-sample-project
